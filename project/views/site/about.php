@@ -13,7 +13,6 @@ $this->params['breadcrumbs'][] = $this->title;
 
     <p>
         This site uses Yii2 basic application.<br>
-        You can go the link and star the git repository <a href="https://github.com/entityz87/Zdice"> here </a><br>
         Built with:<br>
         - yii2 framework<br>
         - twitter bootstrap<br>
