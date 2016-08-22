@@ -8,7 +8,7 @@ $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="container dice">
     <h4>
-        Hello, Dear Friend!
+        Welcome!
     </h4>
 
     <p>
@@ -18,12 +18,7 @@ $this->params['breadcrumbs'][] = $this->title;
         - yii2 framework<br>
         - twitter bootstrap<br>
         - jQuery<br>
-        - <a href="https://github.com/dektrium/yii2-user"> dektrium/user module for yii2 </a><br>
-        - composer<br>
-        - free hosting and domain<br>
-        - netbeans<br>
-        - 140 hours (acquaintance with yii2, MVC, dektrium/user module)<br>
-        Demo user => Login: puper1 Password: puper123<br>
+        - dektrium/user module for yii2<br>
         Plagins, Widgets, else:<br>
         1. Breadcrumbs<br>
         2. Pagination<br>
@@ -34,6 +29,5 @@ $this->params['breadcrumbs'][] = $this->title;
         7. Gii<br>
         8. Migration<br>
         9. .htaccess<br>
-        p.s. no ugly stupid controllers, single responobility principle
     </p>
 </div>
